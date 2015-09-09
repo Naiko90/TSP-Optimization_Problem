@@ -1,0 +1,14 @@
+PARAMS
+DataFileDir ./Data
+runs 10
+rand 12345
+ENDPARAMS
+INSTANCES
+berlin52.tsp
+eil51.tsp
+eil76.tsp
+pr152.tsp
+pr1002.tsp
+rat195.tsp
+ENDINSTANCES
+EOF
